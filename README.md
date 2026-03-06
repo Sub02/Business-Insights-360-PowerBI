@@ -135,7 +135,7 @@ Examples include:
 
 Below is a preview of the Business Insights 360 dashboard.
 
-![Dashboard Preview](../images/Dash_Bord%20Preview.jpeg)
+![Dashboard Preview](images/Dash_Bord%20Preview.jpeg)
 
 ---
 
