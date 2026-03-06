@@ -127,7 +127,7 @@ Examples include:
 
 # 📐 Data Model Diagram
 
-![Data Model](Data Model.jpeg)
+![Data Model](images/data_model.jpeg)
 
 ---
 
