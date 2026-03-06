@@ -143,8 +143,7 @@ Below is a preview of the Business Insights 360 dashboard.
 
 The complete dashboard containing **all analytical views** can be accessed below.
 
-[Download Full Dashboard Views](views/BI360_All_Views.pdf)
-
+[Download Full Dashboard Views](views/BI-360(REFINED)%20(1)_compressed%20(1).pdf)
 The dashboard includes the following analytical pages:
 
 * Home View
