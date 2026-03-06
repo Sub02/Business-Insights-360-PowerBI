@@ -195,7 +195,6 @@ The Business Insights 360 dashboard provides a **centralized analytics platform*
 The interactive Power BI dashboard can be accessed here:
 
 https://app.powerbi.com/view?r=eyJrIjoiNjExOWQwZmYtOGE4ZC00NDIzLWJiYjYtNTU4ZWE1Mjc3MGM5IiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9
-
 ---
 
 # 📁 Repository Structure
@@ -220,4 +219,5 @@ Business-Insights-360-PowerBI
 **Shubhayan Kundu**
 
 Aspiring Data Analyst
-Power BI | Data Analytics | Business Intelligence
+
+Power BI | Data Modeling | Excel | Data Analytics | Business Intelligence
