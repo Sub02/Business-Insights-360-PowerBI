@@ -214,10 +214,15 @@ Business-Insights-360-PowerBI
 
 ---
 
-# 👨‍💻 Author
+## 📬 Contact
 
-**Shubhayan Kundu**
+**Shubhayan Kundu**  
+Aspiring Data Analyst  
 
-Aspiring Data Analyst
+Power BI | Data Modeling | Excel | Data Analytics | Business Intelligence  
 
-Power BI | Data Modeling | Excel | Data Analytics | Business Intelligence
+🔗 LinkedIn: https://www.linkedin.com/in/subhayan-kundu/
+
+📧 Email: kundusubhayan@gmail.com  
+
+💻 GitHub: https://github.com/Sub02
