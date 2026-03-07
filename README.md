@@ -180,9 +180,10 @@ The Business Insights 360 dashboard provides a **centralized analytics platform*
 
 ---
 
-#⚙️ Data Pipeline & Architecture
+# ⚙️ Data Pipeline & Architecture
 
-The project follows a structured data analytics pipeline to transform raw business data into actionable insights.
+The project follows a structured **data analytics pipeline** to transform raw business data into actionable insights.
+
 
 Data Sources (Excel / CSV / Database)
         ↓
