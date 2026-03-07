@@ -185,15 +185,20 @@ The Business Insights 360 dashboard provides a **centralized analytics platform*
 The project follows a structured **data analytics pipeline** to transform raw business data into actionable insights.
 
 
-* Data Sources (Excel / CSV / Database)
-       * ↓
-* Power Query (Data Cleaning & Transformation)
-       * ↓
-* Power BI Data Model (Star Schema)
-       * ↓
-* DAX Measures & KPIs
-       * ↓
-* Interactive Business Dashboard
+1️⃣ Data Sources  
+Excel, CSV files, and MySQL database.
+
+2️⃣ Data Transformation  
+Power Query used for cleaning, formatting, and transforming data.
+
+3️⃣ Data Modeling  
+Star schema model implemented for efficient querying.
+
+4️⃣ Business Logic  
+DAX measures used to calculate KPIs and metrics.
+
+5️⃣ Visualization  
+Interactive dashboards built using Power BI.
 
 ---
 
