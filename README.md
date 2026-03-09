@@ -155,6 +155,14 @@ The dashboard includes the following analytical pages:
 
 ---
 
+## 🎥 Project Walkthrough Video
+
+Watch the complete walkthrough of the **Business Insights 360 Power BI Dashboard**, including data modeling, dashboard navigation, and cross-functional analytics across Finance, Sales, Marketing, Supply Chain, and Executive views.
+
+[![Watch the Video](https://img.youtube.com/vi/iopBO4YsxjA/maxresdefault.jpg)](https://youtu.be/iopBO4YsxjA)
+
+---
+
 # 🔍 Key Insights
 
 The dashboard enables identification of several important business insights:
